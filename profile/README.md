@@ -1,12 +1,37 @@
-## Hi there 👋
+# 🚀 Desenvolvimentos - Joli
 
-<!--
+Bem-vindo à organização responsável pelos projetos internos de automação, integrações e desenvolvimento utilizados pela equipe de T.I.
 
-**Here are some ideas to get you started:**
+Aqui estão centralizados serviços, APIs e ferramentas criadas para melhorar processos internos, automatizar tarefas e integrar sistemas utilizados no dia a dia da empresa.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 📦 O que você encontrará aqui
+
+- APIs internas
+- Integrações entre sistemas
+- Automações corporativas
+- Bots e fluxos automatizados
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+Os projetos podem utilizar tecnologias como:
+
+- Node.js
+- Express
+- PM2
+- APIs REST
+
+---
+
+## 🎯 Objetivo
+
+Centralizar e organizar os projetos internos de desenvolvimento, promovendo melhorias operacionais, automações e integração entre serviços da empresa.
+
+---
+
+## 👨‍💻 Equipe responsável
+
+Equipe de TI 
